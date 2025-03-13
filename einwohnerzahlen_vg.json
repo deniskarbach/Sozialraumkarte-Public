@@ -241,28 +241,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004005",
-            "area": 2.3,
-            "population": 568,
-            "population_m": 261,
-            "population_w": 307,
-            "population_density": 247,
-            "zip": "56412",
-            "center_lon": "7,856785",
-            "center_lat": "50,472876",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Boden",
           "Ort": "Boden",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "688"
         },
         "id": "I3MDY"
@@ -483,28 +465,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004008",
-            "area": 2.51,
-            "population": 465,
-            "population_m": 235,
-            "population_w": 230,
-            "population_density": 185,
-            "zip": "56412",
-            "center_lon": "7,84655",
-            "center_lat": "50,392699",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Daubach",
           "Ort": "Daubach",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "480"
         },
         "id": "UyNTQ"
@@ -959,28 +923,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2018/03/01",
-          "destatis": {
-            "RS": "071435004013",
-            "area": 7.12,
-            "population": 2430,
-            "population_m": 1190,
-            "population_w": 1240,
-            "population_density": 341,
-            "zip": "56337",
-            "center_lon": "7,721646",
-            "center_lat": "50,377278",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
           "name": "Eitelborn",
           "Ort": "Eitelborn",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "2464"
         },
         "id": "U1NjI"
@@ -1453,28 +1399,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004020",
-            "area": 4.75,
-            "population": 535,
-            "population_m": 274,
-            "population_w": 261,
-            "population_density": 113,
-            "zip": "56412",
-            "center_lon": "7,856213",
-            "center_lat": "50,367145",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Gackenbach",
           "Ort": "Gackenbach",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "551"
         },
         "id": "MyNTU"
@@ -1991,28 +1919,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004021",
-            "area": 7.46,
-            "population": 1172,
-            "population_m": 590,
-            "population_w": 582,
-            "population_density": 157,
-            "zip": "56412",
-            "center_lon": "7,910898",
-            "center_lat": "50,450715",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Girod",
           "Ort": "Girod",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Purple"
-          },
           "Z_Einwohnerzahl": "1196"
         },
         "id": "czOTE"
@@ -2197,28 +2107,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004023",
-            "area": 3.25,
-            "population": 888,
-            "population_m": 449,
-            "population_w": 439,
-            "population_density": 273,
-            "zip": "56412",
-            "center_lon": "7,955085",
-            "center_lat": "50,409197",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Görgeshausen",
           "Ort": "Görgeshausen",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "945"
         },
         "id": "AwNzQ"
@@ -2451,28 +2343,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004024",
-            "area": 3.92,
-            "population": 985,
-            "population_m": 487,
-            "population_w": 498,
-            "population_density": 251,
-            "zip": "56412",
-            "center_lon": "7,893295",
-            "center_lat": "50,447761",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Großholbach",
           "Ort": "Großholbach",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "964"
         },
         "id": "I2Mzg"
@@ -2813,28 +2687,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004026",
-            "area": 6.37,
-            "population": 651,
-            "population_m": 337,
-            "population_w": 314,
-            "population_density": 102,
-            "zip": "56412",
-            "center_lon": "7,892491",
-            "center_lat": "50,411216",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Heilberscheid",
           "Ort": "Heilberscheid",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "649"
         },
         "id": "I1OTk"
@@ -3195,28 +3051,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004027",
-            "area": 5.99,
-            "population": 1390,
-            "population_m": 699,
-            "population_w": 691,
-            "population_density": 232,
-            "zip": "56412",
-            "center_lon": "7,863387",
-            "center_lat": "50,449798",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Heiligenroth",
           "Ort": "Heiligenroth",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "1434"
         },
         "id": "cyMjk"
@@ -3429,28 +3267,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004033",
-            "area": 4.53,
-            "population": 1018,
-            "population_m": 513,
-            "population_w": 505,
-            "population_density": 225,
-            "zip": "56412",
-            "center_lon": "7,834296",
-            "center_lat": "50,412331",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Holler",
           "Ort": "Holler",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "1017"
         },
         "id": "Y4NzY"
@@ -3655,28 +3475,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004034",
-            "area": 3.93,
-            "population": 650,
-            "population_m": 328,
-            "population_w": 322,
-            "population_density": 165,
-            "zip": "56412",
-            "center_lon": "7,85137",
-            "center_lat": "50,373894",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Horbach",
           "Ort": "Horbach",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "712"
         },
         "id": "UzODQ"
@@ -3901,28 +3703,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004036",
-            "area": 3.56,
-            "population": 535,
-            "population_m": 277,
-            "population_w": 258,
-            "population_density": 150,
-            "zip": "56412",
-            "center_lon": "7,843481",
-            "center_lat": "50,35855",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Hübingen",
           "Ort": "Hübingen",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "531"
         },
         "id": "QwOTU"
@@ -4255,28 +4039,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004039",
-            "area": 4.45,
-            "population": 1330,
-            "population_m": 666,
-            "population_w": 664,
-            "population_density": 299,
-            "zip": "56337",
-            "center_lon": "7,72874",
-            "center_lat": "50,386876",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
           "name": "Kadenbach",
           "Ort": "Kadenbach",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "1330"
         },
         "id": "k1NjQ"
@@ -4612,24 +4378,6 @@
         },
         "properties": {
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004048",
-            "area": 33.77,
-            "population": 13691,
-            "population_m": 6616,
-            "population_w": 7075,
-            "population_density": 405,
-            "zip": "56410",
-            "center_lon": "7,827159",
-            "center_lat": "50,436232",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "name": "Montabaur Stadt",
           "Z_Einwohnerzahl": "14677"
         },
@@ -4814,24 +4562,7 @@
         },
         "properties": {
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004048",
-            "area": 33.77,
-            "population": 13691,
-            "population_m": 6616,
-            "population_w": 7075,
-            "population_density": 405,
-            "zip": "56410",
-            "center_lon": "7,827159",
-            "center_lat": "50,436232",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
+         
           "name": "Montabaur Horressen"
         },
         "id": "AzNTQ"
@@ -5295,24 +5026,6 @@
         },
         "properties": {
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004048",
-            "area": 33.77,
-            "population": 13691,
-            "population_m": 6616,
-            "population_w": 7075,
-            "population_density": 405,
-            "zip": "56410",
-            "center_lon": "7,827159",
-            "center_lat": "50,436232",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "name": "Montabaur Gelbachtal",
           "Z_Einwohnerzahl": "14677"
         },
@@ -5417,24 +5130,7 @@
         },
         "properties": {
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004048",
-            "area": 33.77,
-            "population": 13691,
-            "population_m": 6616,
-            "population_w": 7075,
-            "population_density": 405,
-            "zip": "56410",
-            "center_lon": "7,827159",
-            "center_lat": "50,436232",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
+         
           "name": "Montabaur Elgendorf"
         },
         "id": "AzNTQ"
@@ -5671,28 +5367,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004051",
-            "area": 7.55,
-            "population": 2017,
-            "population_m": 1017,
-            "population_w": 1000,
-            "population_density": 267,
-            "zip": "56412",
-            "center_lon": "7,935247",
-            "center_lat": "50,420064",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Nentershausen",
           "Ort": "Nentershausen",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "2109"
         },
         "id": "E1MTk"
@@ -5869,28 +5547,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2018/03/01",
-          "destatis": {
-            "RS": "071435004052",
-            "area": 1.67,
-            "population": 2018,
-            "population_m": 998,
-            "population_w": 1020,
-            "population_density": 1208,
-            "zip": "56335",
-            "center_lon": "7,709698",
-            "center_lat": "50,384057",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
           "name": "Neuhäusel",
           "Ort": "Neuhäusel",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "2047"
         },
         "id": "QzNjU"
@@ -6235,28 +5895,11 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004053",
-            "area": 10.25,
-            "population": 1674,
-            "population_m": 841,
-            "population_w": 833,
-            "population_density": 163,
-            "zip": "56412",
-            "center_lon": "7,812119",
-            "center_lat": "50,408124",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Niederelbert",
           "Ort": "Niederelbert",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
+         
           "Z_Einwohnerzahl": "1732"
         },
         "id": "M0OTk"
@@ -6449,28 +6092,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004054",
-            "area": 4.44,
-            "population": 1013,
-            "population_m": 509,
-            "population_w": 504,
-            "population_density": 228,
-            "zip": "56412",
-            "center_lon": "7,976963",
-            "center_lat": "50,426785",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Niedererbach",
           "Ort": "Niedererbach",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "1041"
         },
         "id": "A1MjI"
@@ -6759,28 +6384,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004055",
-            "area": 4,
-            "population": 713,
-            "population_m": 351,
-            "population_w": 362,
-            "population_density": 178,
-            "zip": "56412",
-            "center_lon": "7,913328",
-            "center_lat": "50,427613",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Nomborn",
           "Ort": "Nomborn",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "701"
         },
         "id": "A5NjQ"
@@ -7005,28 +6612,11 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004057",
-            "area": 3.45,
-            "population": 1147,
-            "population_m": 597,
-            "population_w": 550,
-            "population_density": 332,
-            "zip": "56412",
-            "center_lon": "7,816133",
-            "center_lat": "50,389904",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Oberelbert",
           "Ort": "Oberelbert",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
+          
           "Z_Einwohnerzahl": "1176"
         },
         "id": "I4NTc"
@@ -7275,28 +6865,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004065",
-            "area": 4.4,
-            "population": 1253,
-            "population_m": 655,
-            "population_w": 598,
-            "population_density": 285,
-            "zip": "56412",
-            "center_lon": "7,880475",
-            "center_lat": "50,463234",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "02",
-            "density_desc": "mittlere Besiedlungsdichte"
-          },
           "name": "Ruppach-Goldhausen",
           "Ort": "Ruppach-Goldhausen",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "1215"
         },
         "id": "YwNTY"
@@ -7689,28 +7261,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004071",
-            "area": 9.09,
-            "population": 1466,
-            "population_m": 757,
-            "population_w": 709,
-            "population_density": 161,
-            "zip": "56337",
-            "center_lon": "7,673094",
-            "center_lat": "50,389969",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Simmern",
           "Ort": "Simmern (Westerwald)",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "1501"
         },
         "id": "k0NDM"
@@ -7907,28 +7461,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004072",
-            "area": 2.98,
-            "population": 724,
-            "population_m": 363,
-            "population_w": 361,
-            "population_density": 243,
-            "zip": "56412",
-            "center_lon": "7,857828",
-            "center_lat": "50,392752",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Stahlhofen",
           "Ort": "Stahlhofen",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "721"
         },
         "id": "E1MzU"
@@ -8089,28 +7625,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004077",
-            "area": 1.92,
-            "population": 483,
-            "population_m": 242,
-            "population_w": 241,
-            "population_density": 252,
-            "zip": "56412",
-            "center_lon": "7,844629",
-            "center_lat": "50,400524",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Untershausen",
           "Ort": "Untershausen",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "DarkGreen"
-          },
           "Z_Einwohnerzahl": "512"
         },
         "id": "EyMjM"
@@ -8423,28 +7941,10 @@
         "properties": {
           "BEZ": "Gemeinde",
           "WSK": "2009/01/01",
-          "destatis": {
-            "RS": "071435004079",
-            "area": 7.77,
-            "population": 965,
-            "population_m": 474,
-            "population_w": 491,
-            "population_density": 124,
-            "zip": "56412",
-            "center_lon": "7,797824",
-            "center_lat": "50,371558",
-            "travel_key": "J19",
-            "travel_desc": "Westerwald-Lahn",
-            "density_key": "03",
-            "density_desc": "gering besiedelt"
-          },
           "name": "Welschneudorf",
           "Ort": "Welschneudorf",
           "VG": "VG Montabaur",
           "Kreis": "Westerwaldkreis",
-          "_umap_options": {
-            "fillColor": "Red"
-          },
           "Z_Einwohnerzahl": "969"
         },
         "id": "M1MzI"
