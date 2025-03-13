@@ -4562,8 +4562,8 @@
         },
         "properties": {
           "WSK": "2009/01/01",
-         
-          "name": "Montabaur Horressen"
+          "name": "Montabaur Horressen",
+          "Z_Einwohnerzahl": "14677"
         },
         "id": "AzNTQ"
       },
