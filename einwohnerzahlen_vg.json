@@ -7950,16 +7950,4 @@
         "id": "M1MzI"
       }
     ],
-    "_umap_options": {
-      "displayOnLoad": true,
-      "inCaption": true,
-      "browsable": true,
-      "editMode": "advanced",
-      "name": "VG Montabaur",
-      "id": "0b0de43b-deb1-4816-9983-d2828fbbc128",
-      "remoteData": {},
-      "permissions": {
-        "edit_status": 0
-      }
-    }
   }
